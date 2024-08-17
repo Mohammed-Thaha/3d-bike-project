@@ -1,0 +1,11 @@
+Model Information:
+* title:	SPY-HYPERSPORT
+* source:	https://sketchfab.com/3d-models/spy-hypersport-158b48d550144451a59731720f63650a
+* author:	Amvall (https://sketchfab.com/Amvall.Vall)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "SPY-HYPERSPORT" (https://sketchfab.com/3d-models/spy-hypersport-158b48d550144451a59731720f63650a) by Amvall (https://sketchfab.com/Amvall.Vall) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

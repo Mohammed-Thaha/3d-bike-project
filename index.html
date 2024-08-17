@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <nav class="nav">
+        <div class="logo">
+            <h1>Bike</h1>
+        </div>
+        <div class="nav-list">
+            <li><a href="">Home</a></li>
+            <li><a href="#">Price</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+        </div>
+    </nav>
+    <section class="home">
+        <div class="left-container">
+           
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum sed saepe ipsum nobis velit. Repellat
+                fugit voluptatem ut veritatis. Voluptas eaque cupiditate sed velit similique id et dolores expedita
+                animi.
+            </p>
+            <button onclick="restart()">Click</button>
+        </div>
+        <div class="right-container" id="container"></div>
+    </section>
+
+    <script>
+        function restart(){
+            location.reload();
+        }
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/three@0.132.2/build/three.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/three-orbitcontrols@0.132.2/OrbitControls.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/three@0.132.2/examples/js/loaders/GLTFLoader.js"></script>
+    <script src="./script.js"></script>
+</body>
+
+</html>
