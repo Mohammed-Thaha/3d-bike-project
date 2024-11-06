@@ -1,3 +1,4 @@
+      alert("Rendering may take a few moments. Please wait while the models load in your browser.");
         const scene = new THREE.Scene();
         const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
         const renderer = new THREE.WebGLRenderer({ alpha: true });
